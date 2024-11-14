@@ -1,0 +1,13 @@
+{
+    "completed_conversions": {
+        "summaries\\summary_Transformers.txt": {
+            "mtime": 1731573641.2222452,
+            "processed_date": "2024-11-14T14:11:33.410376",
+            "audio_path": "summaryaudio\\summary_Transformers.mp3",
+            "summary_file": "summary_Transformers.txt",
+            "voice_used": "en-US-JennyNeural",
+            "rate": "+1%",
+            "volume": "+0%"
+        }
+    }
+}

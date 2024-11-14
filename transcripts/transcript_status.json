@@ -1,0 +1,9 @@
+{
+    "completed_transcripts": {
+        "Z:\\Projects\\Transcibe2summarizer\\transcripts\\Transformers.txt": {
+            "mtime": 1731573148.3769474,
+            "processed_date": "2024-11-14T14:10:41.224256",
+            "summary_path": "Z:\\Projects\\Transcibe2summarizer\\summaries\\summary_Transformers.txt"
+        }
+    }
+}

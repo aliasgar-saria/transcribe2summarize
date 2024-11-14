@@ -1,0 +1,7 @@
+Required for Open-AI Whisper to run properly
+conda install -c conda-forge ffmpeg -y
+
+Install latest Pytorch, refer to pytorch website for proper command as per your system
+conda install pytorch torchvision torchaudio cpuonly -c pytorch -y 
+
+Install Ollama and then install Smoll:360M Model

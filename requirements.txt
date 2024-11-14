@@ -1,0 +1,11 @@
+moviepy
+faster-whisper
+torch
+torchvision
+torchaudio
+ollama
+pathlib
+gc-python-utils
+edge-tts
+openai-whisper
+asyncio

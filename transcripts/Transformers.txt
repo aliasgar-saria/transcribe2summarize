@@ -1,0 +1,68 @@
+[0.00s -> 5.22s]  No, it's not those transformers.
+[5.22s -> 7.66s]  But they can do some pretty cool things, let me show you.
+[7.66s -> 12.82s]  So why did the banana cross the road?
+[12.82s -> 15.74s]  Because it was sick of being mashed.
+[15.74s -> 18.78s]  I'm not sure that I quite get that one.
+[18.78s -> 22.30s]  And that's because it was created by a computer.
+[22.30s -> 29.22s]  I literally asked, can you write poetry, craft emails, and evidently come up with its own
+[29.22s -> 30.22s]  jokes.
+[30.22s -> 32.42s]  Off you go.
+[32.42s -> 37.78s]  Now while our banana joke is not a model, the three here means that this is the third
+[37.78s -> 38.78s]  generation.
+[38.78s -> 45.46s]  GPT-3 is an autoregressive language model that produces text that looks like it was written
+[45.46s -> 54.46s]  by a human of a transformer.
+[54.46s -> 60.94s]  I think that transforms from one sequence isn't exactly funny, it does fit the typical
+[60.94s -> 64.62s]  pattern of a joke with a setup and a punchline and sort of kind of makes sense.
+[64.62s -> 68.14s]  I mean, who wouldn't cross the road to avoid getting mashed?
+[68.14s -> 78.34s]  But look, GPT-3 is just one ex-ly banana across the road.
+[78.34s -> 83.90s]  And we want to take that English fence into another.
+[83.90s -> 87.34s]  And language translation is just a great example.
+[87.34s -> 99.82s]  Perhaps we want to take a sentence of why did a decoder?
+[99.82s -> 108.30s]  The encoder works on the input sequence, which phrase and translate it into French.
+[108.30s -> 111.94s]  Well, transformers consist of two parts.
+[111.94s -> 118.22s]  There is an encoder and the lookup task.
+[118.22s -> 127.18s]  So convert the why here of our English sentence to the French equivalent of pour quoi.
+[127.18s -> 136.78s]  But of course, and the decoder operates on the target output sequence.
+[136.78s -> 141.34s]  Now on the face of it, translation seems like a little more than just a sequence learning
+[141.46s -> 147.18s]  where the transformer takes a sequence of tokens, in this case words in a sentence,
+[147.18s -> 151.38s]  and predicts the next word in the output sequence.
+[151.38s -> 155.78s]  Of course, language translation doesn't really work that way.
+[155.78s -> 160.46s]  Things like word order in terms of phrase often mix things up.
+[160.46s -> 166.22s]  And the way transformers work is through sequence, plus is these encodings to the next encoder layer.
+[166.22s -> 171.18s]  The decoder takes all of these encodings and uses their derived context
+[171.18s -> 173.54s]  to generate the output sequence.
+[173.54s -> 178.38s]  Now transformers, it does this through iterating through encoder layers.
+[178.38s -> 184.38s]  So the encoder generates encodings that define which part of the input sequence
+[184.38s -> 187.02s]  are relevant to each other.
+[187.02s -> 193.10s]  By semi-secret, semi-supervised, we mean that they are pre-trained in an unsupervised manner
+[193.10s -> 195.98s]  with a large unlabeled dataset.
+[195.98s -> 203.42s]  And then they're fine-tuned through Summers R a form of semi-supervised learning.
+[209.98s -> 213.90s]  Our recurrent neural networks are RNNs.
+[213.90s -> 220.62s]  What makes transformers a little bit different is that they do not necessarily process data in order.
+[220.62s -> 226.22s]  Transformers supervised training to get them to perform better.
+[226.22s -> 229.82s]  Now in previous videos, I've talked about other machine learning algorithms
+[229.82s -> 232.86s]  that handle sequential input like natural language.
+[232.86s -> 237.58s]  For example, starting our translation with the word why, because it's at the start of the sentence,
+[237.58s -> 244.22s]  the transformer attempts to identify the context that bring meaning in each word in the sequence.
+[244.22s -> 249.02s]  And it's the formers use something called an attention mechanism.
+[251.02s -> 257.02s]  And this provides context around items in the input sequence, so parallel.
+[257.02s -> 261.02s]  And this vastly speeds up training times.
+[261.02s -> 265.02s]  So beyond translations, what can transformers be applied to?
+[265.02s -> 271.02s]  Well, document summaries, and it's this attention mechanism that gives transformers a huge leg up
+[271.02s -> 274.22s]  over algorithms like RNN that must run in sequence.
+[274.22s -> 277.42s]  Transformers run multiple sequences.
+[277.42s -> 282.38s]  In that summarize the main points.
+[282.38s -> 287.98s]  Transformers can create whole new documents of their own, for example, like write a whole blog post.
+[287.98s -> 291.66s]  And beyond just language, transformers have done things.
+[291.66s -> 293.26s]  They're another great example.
+[293.26s -> 301.02s]  You can like feed in a whole article as the input sequence and then generate an output sequence.
+[301.02s -> 306.14s]  That's going to really just be a couple of, the attention mechanism can be parallelized,
+[306.14s -> 307.50s]  are getting better all the time.
+[307.50s -> 312.38s]  And who knows, pretty soon maybe they'll even be able to pull off banana jokes that
+[313.10s -> 313.98s]  are actually funny.
+[314.78s -> 320.54s]  Done things like learn to play chess and perform image processing that even rivals the capabilities
+[320.54s -> 322.14s]  of convolutional neural networks.
+[322.94s -> 326.14s]  Look, transformers are a powerful deep learning model.
+[328.14s -> 330.86s]  If you have any questions, please drop us a line below.
+[330.86s -> 335.34s]  And if you want to see more videos like this in the future, please like and subscribe.
+[335.34s -> 336.70s]  Thanks for watching.
